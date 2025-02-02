@@ -46,6 +46,9 @@
   - [Lunalog](https://github.com/hemingtsai/lunalog)
   - [Personal Homepage](https://github.com/hemingtsai/personal_homepage)
 - [Study Area CN](https://git.hmtsai.cn/study-area-cn)
+- Editors
+  - [Zrynvim](https://github.com/hemingtsai/zrynvim)
+  - [Zry-emacs](https://github.com/hemingtsai/zry-emacs)
 
 ## Contant me | 联系我
 
